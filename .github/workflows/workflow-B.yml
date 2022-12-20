@@ -16,7 +16,7 @@ jobs:
     environment: testing
     steps:
     
-      - name: Sleep for 30 seconds
+      - name: Sleep for 120 seconds
         run: sleep 120s
         shell: bash
     
